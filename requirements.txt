@@ -1,0 +1,35 @@
+# FastAPI and Server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+pydantic==2.5.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# AI/ML Models - Fixed versions for compatibility
+protobuf==4.25.3
+ml-dtypes==0.3.2
+tensorboard==2.16.2
+tensorflow==2.16.1
+tf-keras==2.16.0
+deepface==0.0.93
+mediapipe==0.10.21
+opencv-python==4.8.1.78
+torch==2.2.2
+torchvision==0.17.2
+
+# Image Processing
+Pillow==10.1.0
+numpy==1.26.4
+scikit-image==0.22.0
+
+# API Clients
+openai==1.3.0
+requests==2.31.0
+
+# Database
+python-json-logger==2.0.7
+
+# Utilities
+aiofiles==23.2.1
